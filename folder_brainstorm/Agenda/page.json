@@ -5,7 +5,6 @@
   "do_objectID": "2D37977A-BC3E-4B3F-BE5F-DD28A129473C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "570D49A9-2ECE-4212-A685-3F3C496090EC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,22 +15,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9D20BB72-1CB8-461C-9790-8B52AA95AD7A",
     "height": 300,
     "width": 300,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "D77EFBF1-E264-4DD3-BE9C-1AF2EA0D302B"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
-    "do_objectID": "81C0F8BF-82A2-48AA-8995-4A09FF3E2B27",
     "guides": [
     ]
   },
@@ -56,16 +52,53 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "BE10CB61-83D5-4729-B381-7F247BA5D447",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -265,
-    "do_objectID": "E4784A2F-2E30-41E6-B428-5CA5E2B52947",
     "guides": [
     ]
   }

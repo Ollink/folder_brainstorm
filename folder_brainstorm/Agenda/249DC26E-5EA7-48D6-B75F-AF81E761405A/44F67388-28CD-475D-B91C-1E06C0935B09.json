@@ -40,7 +40,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F6D30623-2128-4FC4-8138-916FE9652FF4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,7 +50,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0F50FA1F-B972-488A-AEE7-5FCBFA5E29B2",
     "height": 33,
     "width": 1280,
     "x": 0,
@@ -74,13 +72,50 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "9E479FF1-B9D4-468D-B8EA-E55643E944C5",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A3BC8334-0FFE-4701-8FB9-D8F83B380937",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

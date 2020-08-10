@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "By customer ( lol )"
+    "string": "it"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0F3B4BA3-11E8-48AC-9DA0-66677708901F",
+  "do_objectID": "031C24A7-54F7-42C6-B082-390D7B863784",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,9 +53,9 @@
     "height": 33,
     "width": 1280,
     "x": 0,
-    "y": 568
+    "y": 1507
   },
-  "glyphBounds": "{{521, 5}, {239, 29}}",
+  "glyphBounds": "{{633, 4}, {15, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,8 +63,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "By customer ( lol )",
+  "lineSpacingBehaviour": 3,
+  "name": "it",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D0799634-2905-4F79-8D45-BFBBBE7CC6F5",
+    "do_objectID": "80ADC557-EC29-4EEA-AE33-E108CA1631A2",
     "endMarkerType": 0,
     "fills": [
     ],

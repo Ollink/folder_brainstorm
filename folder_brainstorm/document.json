@@ -1,10 +1,14 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
     ],
     "colors": [
+    ],
+    "do_objectID": "9029778B-EB6D-4AFB-AA30-763DA4169E3D",
+    "exportPresets": [
     ],
     "gradientAssets": [
     ],
@@ -18,9 +22,94 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "0f62a170-dafb-11ea-9486-cb43f519f495",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0CCB78BC-5DA0-4708-8AA7-85A1A0D706C4",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "69CB4628-14C6-4793-9064-114942D3B90E",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "71778C5C-B1CE-4873-AFD5-0C2EA75B49D6",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "72-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7338C02F-00F3-452F-A5B7-DDD1BFCCDCD0",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "885B90BE-EAC9-482C-8438-BAC95B415ABA",
+      "fontFamilyName": "72",
+      "fontFileName": "72-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8B5A2979-1D61-495C-A520-81ACEE087BCD",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "72-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8E62864D-4910-446B-9937-824E33632CF3",
+      "fontFamilyName": "72",
+      "fontFileName": "72-Condensed.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72-Condensed"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C6B8F268-ACE5-4C56-BF88-C71A2D9FAB74",
+      "fontFamilyName": "72",
+      "fontFileName": "72-CondensedBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "72-CondensedBold"
+      ]
+    }
+  ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -32,12 +121,17 @@
     ]
   },
   "meta": {
-    "appVersion": "54.1",
-    "build": 76490,
-    "version": 118
+    "appVersion": "67.2",
+    "build": 100443,
+    "version": 130
   },
   "pages": [
     "Agenda",
     "Page 1"
-  ]
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
 }
